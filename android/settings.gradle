@@ -1,0 +1,3 @@
+rootProject.name = 'buy_selly_1144'
+
+include ':app'
